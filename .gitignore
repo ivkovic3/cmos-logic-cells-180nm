@@ -1,0 +1,21 @@
+# Cadence lock files and logs
+*.cdslck
+*.cdslck.*
+CDS.log*
+libManager.log*
+*.log
+.cadence/
+
+# Simulation and extraction run directories
+simulation/
+ihnl/
+*.raw
+*.psf
+
+# Office temp files
+~$*
+
+# OS files
+desktop.ini
+Thumbs.db
+.DS_Store
