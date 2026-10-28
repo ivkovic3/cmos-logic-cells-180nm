@@ -6,7 +6,7 @@ Each cell went through the complete flow, from transistor sizing to post-layout 
 **schematic → functional simulation (Spectre) → layout → parasitic extraction → post-layout simulation → delay analysis**
 
 University project for the course *Integrated Circuit Design* (Projektovanje integrisanih kola), School of Electrical Engineering, University of Belgrade, 2025.
-Team project by **Marko Ivković** and **Senad Nogović**.
+Team project.
 
 | 2-to-1 multiplexer – schematic | 2-to-1 multiplexer – layout |
 |:---:|:---:|
